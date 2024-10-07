@@ -1,0 +1,39 @@
+{
+  "libros": [
+    {
+      "autor": "Haruki Murakami",
+      "libro": "Kafka en la orilla",
+      "publicacion": "2002",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTg6zn3On64pRBVtmBDnsb1W1AjNCoHs1zdYQ&s",
+      "id": 3
+    },
+    {
+      "autor": "Margaret Atwood",
+      "libro": "El cuento de la criada",
+      "publicacion": "1985",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7LjDp4p-Ugu8bSWD4Out5JJcugkTy4L0WkQ&s",
+      "id": 4
+    },
+    {
+      "autor": "Ernest Hemingway",
+      "libro": "El viejo y el mar",
+      "publicacion": "1952",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRb_LKi28vFQFfwAuiehtE9l7OESlo7L-p9Vw&s",
+      "id": 3
+    },
+    {
+      "autor": "J.K. Rowling",
+      "libro": "Harry Potter y la piedra filosofal",
+      "publicacion": "1997",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqJRkcZ0cljUhd5DvNQjYjTP5tquglDeEESyORIp9HG_t9ldsfE3m5RgM0Bestl6sOXwk&usqp=CAU",
+      "id": 4
+    },
+    {
+      "autor": "Isabel Allende",
+      "libro": "La casa de los espíritus",
+      "publicacion": "1982",
+      "imagen": "https://www.mrbooks.com/mrbooks/portadas/9789585457690.webp",
+      "id": 5
+    }
+  ]
+}

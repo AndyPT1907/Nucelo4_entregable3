@@ -1,0 +1,47 @@
+/* Personalización de la tabla */
+.table-custom {
+  background-color: #f9f9f9;
+  border-collapse: separate;
+  border-spacing: 0;
+  border: 2px solid #dee2e6;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.table-custom thead th {
+  background-color: #f0f0f0;
+  color: #333;
+  font-weight: bold;
+  text-align: center;
+  border-bottom: 2px solid #dee2e6;
+  padding: 12px;
+}
+
+.table-custom tbody tr {
+  border-bottom: 1px solid #ddd;
+  transition: background-color 0.2s ease;
+}
+
+.table-custom tbody tr:hover {
+  background-color: #eaeaea;
+}
+
+.table-custom tbody td {
+  padding: 15px;
+  vertical-align: middle;
+  text-align: center;
+  color: #555;
+}
+
+/* Personalización de la imagen del libro */
+.book-img {
+  width: 150px;
+  height: auto;
+  border-radius: 10px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+  transition: transform 0.2s;
+}
+
+.book-img:hover {
+  transform: scale(1.1);
+}

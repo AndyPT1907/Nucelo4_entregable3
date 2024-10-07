@@ -1,0 +1,52 @@
+/* Estilos para la sección header */
+.header {
+  background-color: #6b4f2e;
+  border-radius: 0 0 50px 50px;
+}
+
+/* Estilos para las tarjetas de libros */
+.book-card {
+  transition: transform 0.2s ease-in-out, box-shadow 0.2s ease-in-out;
+  border: none;
+  border-radius: 15px;
+  overflow: hidden;
+}
+
+.book-card:hover {
+  transform: translateY(-10px);
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.2);
+}
+
+.book-card .card-title {
+  font-weight: bold;
+}
+
+.book-card .card-text {
+  font-size: 0.9rem;
+}
+
+/* Estilos para las imágenes */
+.book-card .card-img-top {
+  height: 300px;
+  object-fit: cover;
+}
+
+.img-fluid {
+  border-radius: 15px 15px 0 0;
+}
+
+/* Estilos para los botones */
+.btn-custom {
+  background-color: #8b5b29;
+  color: white;
+  transition: background-color 0.3s ease;
+}
+
+.btn-custom:hover {
+  background-color: #a6713a;
+}
+
+/* Estilos del footer */
+.footer {
+  font-size: 0.9rem;
+}
